@@ -1,0 +1,65 @@
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.exe.config
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.exe
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.pdb
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.xml
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Resources.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.vbproj.GenerateResource.Cache
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.exe
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.xml
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.pdb
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Home.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.MyCafe_Template1.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.LoginForm.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.login.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SignupForm.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.AddUser.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.RatePlan.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.ProjectTCPServer.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.exe.manifest
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.application
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.exe.manifest
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.application
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.WebsiteBlocker.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.textRemover.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.FindUser.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.TrustInfo.xml
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.clientconnnected.resources
+C:\Users\Official\Documents\Visual Studio 2012\Projects\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SampleRegistry.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.exe.config
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.exe
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.xml
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.pdb
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.AddUser.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.clientconnnected.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.FindUser.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Home.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.login.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.LoginForm.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Resources.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.ProjectTCPServer.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.RatePlan.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SampleRegistry.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SignupForm.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.textRemover.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.MyCafe_Template1.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.WebsiteBlocker.resources
+D:\Wireless\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.vbproj.GenerateResource.Cache
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\bin\Debug\MyCafe Management System.exe.config
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.exe
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.xml
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.pdb
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.AddUser.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.clientconnnected.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.FindUser.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Home.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.login.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.LoginForm.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.Resources.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.ProjectTCPServer.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.RatePlan.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SampleRegistry.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.SignupForm.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.textRemover.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.MyCafe_Template1.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe_Management_System.WebsiteBlocker.resources
+C:\Users\Official\Desktop\CyberSpot Cafe Management System\MyCafe Management System\MyCafe Management System\obj\Debug\MyCafe Management System.vbproj.GenerateResource.Cache
