@@ -24,15 +24,12 @@ Public Class AddUser
             MsgBox("Please fill Name")
 
         ElseIf String.IsNullOrEmpty(TxtContact.Text) Then
-
             MsgBox("Please Enter Contact")
 
         ElseIf String.IsNullOrEmpty(LstAddress.Text) Then
-
             MsgBox("Please Enter Address")
 
         ElseIf String.IsNullOrEmpty(TxtIdCardNo.Text) Then
-
             MsgBox("Please Enter ID Card Number")
 
         ElseIf CMBidType.SelectedItem Is Nothing Then
@@ -103,20 +100,9 @@ Public Class AddUser
         PictureBox1.Image = Nothing
         LstAddress.Text = Nothing
 
-
-
-
     End Sub
 
-
-
-
-
-
-
-
     Sub showrecord()
-
         cn.Open()
 
         With cmd
@@ -135,13 +121,10 @@ Public Class AddUser
             End If
         Next
         cn.Close()
-
     End Sub
 
     Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
-
     End Sub
-
     Private Sub AddUser_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         showrecord()
 
