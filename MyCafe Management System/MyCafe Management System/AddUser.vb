@@ -8,7 +8,6 @@ Public Class AddUser
     Dim da As New SqlDataAdapter
     Dim ds As New DataSet
     Dim Gender As String
-
     Dim dt As New DataTable
     Dim i As Integer
     Dim a As New OpenFileDialog
